@@ -1,5 +1,5 @@
 Author: Trenton Tong
-Purpose: Simulates Aircraft Parts Inspections
+Purpose: C++ program that Simulates Aircraft Parts Inspections
 
 Includes tester files (Control.cc, View.cc and main.cc) to test the program.
 
