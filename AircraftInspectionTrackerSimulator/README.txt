@@ -1,7 +1,10 @@
 Author: Trenton Tong
 Purpose: C++ program that Simulates Aircraft Parts Inspections
 
-An Airline runs a number of Aircraft. Spare Parts for the aircraft are stored in case a part must be changed. The rules and regulations of the airline industry ensure that parts are inspected and changed at regular intervals. As such, each Part is carefully tracked. Some parts must be inspected after a certain number of flight hours. Some parts must be inspected after a certain amount of time being installed in an aircraft.
+An Airline runs a number of Aircraft. Spare Parts for the aircraft are stored in case a part must be changed. 
+The rules and regulations of the airline industry ensure that parts are inspected and changed at regular intervals. As such, each Part is carefully tracked. 
+Some parts must be inspected after a certain number of flight hours. 
+Some parts must be inspected after a certain amount of time being installed in an aircraft.
 
 Includes tester files (Control.cc, View.cc and main.cc) to test the program.
 
